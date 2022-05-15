@@ -4,6 +4,8 @@
 A micro-services-based backend system is developed for EG but the front-end is not developed. The
 online platform is expecting a rich web-based application with higher user experience. 
 
+In this project my role is about to manage the power consumption details.
+
 Project OutPut : 
 ![1](https://user-images.githubusercontent.com/86149391/168473687-6d14149d-c4ec-4ea5-9548-110a1cba7994.png)
 
